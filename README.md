@@ -1,4 +1,4 @@
-##Excel Regression Analysis & Bike Sales Dashboard
+#Excel Regression Analysis & Bike Sales Dashboard
 
 Project Overview
 This project demonstrates two key components using Excel:
